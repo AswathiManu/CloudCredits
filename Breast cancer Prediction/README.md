@@ -19,7 +19,7 @@ M - Malignant (Cancerous)
 
 B - Benign (Non-cancerous)
 
-🔍 Attribute Information
+## 🔍 Attribute Information
 
 ID Number
 
@@ -51,7 +51,7 @@ Fractal Dimension ("Coastline approximation" - 1)
 
 Thus, the dataset contains 10 base features, each with three variations (mean, standard error, and worst value), resulting in 30 features.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Programming Language: Python
 
