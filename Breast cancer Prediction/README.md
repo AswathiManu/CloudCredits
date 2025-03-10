@@ -1,11 +1,11 @@
-#Breast Cancer Prediction
+# Breast Cancer Prediction
 
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project aims to build a Breast Cancer Prediction Model using machine learning techniques. The model classifies tumors as Malignant (Cancerous) or Benign (Non-cancerous) based on extracted features from digitized images of breast mass. The dataset used is the Breast Cancer Wisconsin (Diagnostic) Dataset from the UCI Machine Learning Repository.
 
-📊 Dataset Information
+## 📊 Dataset Information
 
 Source: Breast Cancer Wisconsin (Diagnostic) Dataset
 
@@ -71,7 +71,7 @@ K-Nearest Neighbors (KNN)
 
 Neural Networks
 
-📈 Model Performance
+## 📈 Model Performance
 
 The models are evaluated based on the following metrics:
 
